@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winnietechie
+- 👋 Hi, I’m @winnie
 - 👀 I’m interested in web developments using html, css , js, php and SQL
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on projects 
